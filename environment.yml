@@ -6,5 +6,3 @@ dependencies:
   - ipycanvas
   - numpy
   - pandas
-  - matplotlib
-  - numexp
