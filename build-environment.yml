@@ -8,7 +8,7 @@ dependencies:
   - jupyter_server
   - jupyterlab-night
   - jupyterlab-language-pack-fr-FR
-  - jupyterlite-core >=0.1.0,<0.2.0
+  - jupyterlite-core>=0.2.0a4
   - pip:
     - voici==0.4.4
-    - jupyterlite-xeus-python==0.8.1
+    - jupyterlite-xeus-python==v1.0.0a0
